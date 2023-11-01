@@ -1,1 +1,1 @@
-# python-selenium-page-object-sample
+# Page Object Model
